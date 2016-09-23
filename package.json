@@ -15,6 +15,8 @@
     "ejs": "^2.5.1",
     "express": "^4.14.0",
     "express-session": "^1.14.0",
+    "install": "^0.8.1",
+    "npm": "^3.10.6",
     "session-file-store": "^0.2.0"
   }
 }
